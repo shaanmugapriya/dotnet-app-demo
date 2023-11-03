@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dsufmXdQabNY1MnNL/EYfIiZz7HMz4D6gpoJLs0G2+U=",
+  "Source": "sampledotnetwebapp",
+  "BasePath": "_content/sampledotnetwebapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
