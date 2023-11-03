@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GitHubActions.NetDemo
+build_property.ProjectDir = C:\Users\shanmugapriya.n01\dotnet-Docker-Demo\

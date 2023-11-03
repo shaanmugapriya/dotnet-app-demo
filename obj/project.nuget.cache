@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9YPH7zEk82CZqqVINay9kOfYbJ3ylkqCZCQV9jMpK6pIy5qaYb8HqLMUtNPM78WXEsKjYWYjsoaueZjG5ousvg==",
+  "dgSpecHash": "1nSLRIXZkoZwM/yTxjvmQeIrZUjuWw2ARHLJBy+nu7zB1hKo4fD54CtyoTOQosqpKQAvNX+CGV12yqT2/PHM1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shanmugapriya.n01\\sampledotnetwebapp\\sampledotnetwebapp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\shanmugapriya.n01\\dotnet-Docker-Demo\\GitHubActions.NetDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

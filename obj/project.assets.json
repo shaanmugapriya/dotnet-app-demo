@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shanmugapriya.n01\\sampledotnetwebapp\\sampledotnetwebapp.csproj",
-      "projectName": "sampledotnetwebapp",
-      "projectPath": "C:\\Users\\shanmugapriya.n01\\sampledotnetwebapp\\sampledotnetwebapp.csproj",
+      "projectUniqueName": "C:\\Users\\shanmugapriya.n01\\dotnet-Docker-Demo\\GitHubActions.NetDemo.csproj",
+      "projectName": "GitHubActions.NetDemo",
+      "projectPath": "C:\\Users\\shanmugapriya.n01\\dotnet-Docker-Demo\\GitHubActions.NetDemo.csproj",
       "packagesPath": "C:\\Users\\shanmugapriya.n01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shanmugapriya.n01\\sampledotnetwebapp\\obj\\",
+      "outputPath": "C:\\Users\\shanmugapriya.n01\\dotnet-Docker-Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shanmugapriya.n01\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -54,6 +54,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
